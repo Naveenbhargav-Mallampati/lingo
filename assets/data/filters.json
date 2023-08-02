@@ -1,0 +1,12 @@
+{
+    "age":20,
+    "height":175,
+    "gender":1,
+    "sign":8,
+    "type":1,
+    "name":"Naveenbhargav Mallampati",
+    "workout":"yoga",
+    "best_tought":"Currently dont know",
+    "world_end":"Just watch it",
+    "hobbies":["swimming","cricket","gaming","agricukture","technologies","meditation"]
+}

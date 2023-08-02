@@ -1,0 +1,26 @@
+To be executed :
+
+    1. Profile edit completion
+    2. Matches screen functionality
+    3. Onboarding completion
+    4. login
+    5. settings and logout
+    6. payment options
+    7. payment functionality
+    8. chat functionality
+    9. filters Screen
+
+
+settings features :
+    1.email change
+    2. verify
+    3.password change
+    5. logout
+    6. theme change
+    7. icognito
+
+
+
+Pricing:
+
+    
